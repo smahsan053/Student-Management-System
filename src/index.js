@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 import StudentDetails from "./model/StudentDetails.js";
 import StudentsList from "./model/StudentsList.js";
