@@ -1,7 +1,7 @@
 {
-  "name": "sms-cli",
+  "name": "sms-ahsan-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a command-line application for managing student enrollments and fee payments. It allows you to enroll new students, view student details, and handle fee payments.  ",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
