@@ -39,3 +39,23 @@ This is a command-line application for managing student enrollments and fee paym
 To run the application, use the following command:
 ```sh
 ./index.js
+
+You will be prompted with a menu to choose an option for managing students and their fee payments.
+
+File Structure
+index.js: The main entry point of the application.
+model/StudentDetails.js: Contains the StudentDetails class for managing individual student details.
+model/StudentsList.js: Contains the StudentsList singleton class for managing the list of students.
+template/inquirerprompt.js: Contains the inquirer prompts for user interaction.
+
+chalk: Used for colorful console output.
+inquirer: Used for interactive command-line prompts.
+model/StudentDetails.js: Contains the StudentDetails class.
+model/StudentsList.js: Contains the StudentsList singleton class.
+template/inquirerprompt.js: Contains the inquirer prompts.
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Contributing
+If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome all contributions!
+
